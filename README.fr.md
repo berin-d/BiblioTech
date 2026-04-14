@@ -1,6 +1,6 @@
 # 📚 BioblioBook
 
-> A personal library of books and online learning resources dedicated to computer science and software development.
+> Une bibliothèque personnelle de livres et de ressources d'apprentissage en ligne dédiée à l'informatique et au développement logiciel.
 ---- 
 &nbsp;
 ## 🌐 Language / Langue
