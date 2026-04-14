@@ -5,7 +5,7 @@
 &nbsp;
 ## 🌐 Language / Langue
 
-- 🇬🇧 [English](./README.en.md)
+- 🇬🇧 [English](./README.md)
 - 🇫🇷 [Français](./README.fr.md)
 ---
 &nbsp;
