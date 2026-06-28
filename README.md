@@ -34,36 +34,35 @@ Navigate directly to a topic:
 
 ## 🗂️ Tools
 
+### 🛠️ Developer
 
-## 🛠️ Developer
-
-### Animation
+#### Animation
 - AnimeJs
 - GrapeJs
 
 ### UI/UX
 - TailwindCSS
 
-# Note-taking
+### Note-taking
 - Obsidian
 
-# Design & UI/UX
+### Design & UI/UX
 - Affinity
 - Figma
 
-# Productivity & Collaboration
+### Productivity & Collaboration
 - Miro
 - Notion
 - Trello
 
 
 
-# 🎬 Content Creation
+### 🎬 Content Creation
 - Kdenlive
 - OBS Studio
 
 
-# Other Tools
+### Other Tools
 - XnConvert
 
 ---
