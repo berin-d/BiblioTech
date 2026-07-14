@@ -26,8 +26,9 @@ Navigate directly to a topic:
  
 | Folder | Topic | Description |
 |--------|-------|-------------|
-| [`📁 JAVA`](./JAVA) | Java Language | Books, tutorials and courses on Java (OOP, Spring, JVM…) |
-| [`📁 C++`](./C++) | C++ Language | Resources on C++ (STL, memory management, performance…) |
+| [`📁 JAVA`](./CODE LANGUAGES/JAVA) | Java Language | Books, tutorials and courses on Java (OOP, Spring, JVM…) |
+| [`📁 C++`](./CODE LANGUAGES/C++) | C++ Language | Resources on C++ (STL, memory management, performance…) |
+| [`📁 C#`](./CODE LANGUAGES/C++) | C# Language | |
 | [`📁 UIX`](./UIX) | UI/UX Design | Guides on user experience and interface design |
 
 
