@@ -48,4 +48,30 @@ Navigate directly to a topic:
 
 ### 🌐 Web & Browser Extensions
 - **[SVG Grabber](https://chromewebstore.google.com/detail/svg-grabber-grab-all-the/eafjmnaiohflfhelegodfedimibnjpgp)** — Chrome extension that extracts and downloads all SVG icons and vectors from any webpage in one click.
-- **[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)** — Technology profiler that uncovers the frameworks, CMS,
+- **[Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)** — Technology profiler that uncovers the frameworks, CMS, analytics, and libraries powering any website.
+- **[Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)** — Browser extension to view multiple screen resolutions simultaneously for rapid responsive design testing.
+
+### 📝 Note-taking & Knowledge Base
+- **[Obsidian](https://obsidian.md/)** — Powerful, Markdown-based knowledge base and note-taking app that stores files locally and links ideas graphically.
+- **[Notion](https://www.notion.so/)** — All-in-one workspace for notes, tasks, databases, and project management.
+
+### 📊 Productivity & Collaboration
+- **[Miro](https://miro.com/)** — Visual collaboration platform featuring infinite whiteboards for brainstorming, diagramming, and team workflows.
+- **[Trello](https://trello.com/)** — Kanban-style task management app for organizing projects into boards, lists, and cards.
+
+### 🎬 Content Creation & Media
+- **[OBS Studio](https://obsproject.com/)** — Free and open-source software for video recording and live streaming.
+- **[Kdenlive](https://kdenlive.org/)** — Open-source non-linear video editing software providing multi-track editing and advanced effects.
+- **[XnConvert](https://www.xnview.com/en/xnconvert/)** — Cross-platform batch image converter and resizer supporting over 500 graphic formats.
+
+---
+
+## 📜 License
+
+This repository is for personal use. All referenced resources belong to their respective authors.
+
+---
+
+<p align="center">
+  Made with ❤️ to learn and grow
+</p>
